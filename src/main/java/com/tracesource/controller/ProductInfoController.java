@@ -19,6 +19,9 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * 修改了一个注释
+ */
 @Controller
 @RequestMapping("productInfo")
 public class ProductInfoController {
