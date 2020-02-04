@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Trace_Source:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Trace_Source</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Trace_Source.war">
+      <element id="artifact" artifact-name="Trace_Source:war exploded" />
+    </root>
+  </artifact>
+</component>
